@@ -1,0 +1,17 @@
+.cabecalho{
+    padding: 40px;
+    background-color: rgb(11, 23, 187);
+    color: aliceblue;
+}
+
+.containe{
+
+    padding: 400px;
+    color: rgb(11, 23, 187);
+}
+.rodape{
+
+    padding: 100px;
+    background-color: rgb(11, 23, 187);
+    color: aliceblue;
+}
